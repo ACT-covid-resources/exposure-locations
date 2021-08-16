@@ -23,3 +23,4 @@ jobs:
         with:
           http_url: https://www.covid19.act.gov.au/act-status-and-response/act-covid-19-exposure-locations
           downloaded_filename: locations.html
+          postprocess: postprocess.ts
