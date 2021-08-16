@@ -1,4 +1,4 @@
-  Page last updated: 17 Aug 2021 8:28am
+  Page last updated: 17 Aug 2021 9:16am
 
   To keep our community safe, follow ACT Health directions and advice.
 
@@ -10,7 +10,7 @@
 
   If you have been to any of the following locations at the dates and times specified, you must:
 
-    * complete the ACT Contact Declaration Form: New exposure sites will be live on the form from 9am 17 August
+    * complete the ACT Contact Declaration Form
     * immediately quarantine
     * get tested for COVID-19 as advised by ACT Health
     * remain in quarantine until advised further by ACT Health, even if you get a negative test result
@@ -213,7 +213,7 @@
 
     If you have been to any of the following locations at the dates and times specified, you must:
 
-      * complete the ACT Contact Declaration Form: New exposure sites will be added to the form by 9am on 17 August
+      * complete the ACT Contact Declaration Form
       * immediately quarantine
       * get tested for COVID-19 as advised by ACT Health:
               o If you were at the casual contact location less than 4 days ago, you will need two tests. You need to get a test as soon as you find out you are a casual contact. You will need to get another test on day 5 after you were at the casual contact location. You need to remain in quarantine for the whole time, until you receive a negative test result from the second test.
