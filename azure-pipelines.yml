@@ -15,7 +15,7 @@ steps:
     -H "Accept: application/vnd.github.v3+json" \
     -H "Authorization: token ${GITHUB_TOKEN}" \
     https://api.github.com/repos/kenbehren/exposure-locations/actions/workflows/flat.yaml/dispatches \
-    -d '{"ref":"ref"}'
+    -d '{"ref":"refs/heads/main"}'
   displayName: 'Trigger workflow'
   env:
     GITHUB_TOKEN: $(GITHUB_TOKEN)
