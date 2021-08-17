@@ -14,7 +14,7 @@ steps:
     -X POST \
     -H "Accept: application/vnd.github.v3+json" \
     -H "Authorization: kenbehrens:${GITHUB_TOKEN}" \
-    https://api.github.com/repos/kenbehren/exposure-sites/actions/workflows/flat.yaml/dispatches \
+    https://api.github.com/repos/kenbehren/exposure-locations/actions/workflows/flat.yaml/dispatches \
     -d '{"ref":"ref"}'
   displayName: 'Trigger workflow'
   env:
