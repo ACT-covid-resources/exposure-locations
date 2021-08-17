@@ -1,4 +1,4 @@
-  Page last updated: 17 Aug 2021 11:43am
+  Page last updated: 17 Aug 2021 4:18pm
 
   To keep our community safe, follow ACT Health directions and advice.
 
@@ -216,7 +216,7 @@
       * complete the ACT Contact Declaration Form
       * immediately quarantine
       * get tested for COVID-19 as advised by ACT Health:
-              o If you were at the casual contact location less than 4 days ago, you will need two tests. You need to get a test as soon as you find out you are a casual contact. You will need to get another test on day 5 after you were at the casual contact location. You need to remain in quarantine for the whole time, until you receive a negative test result from the second test.
+              o If you were at the casual contact location less than 4 days ago, you will need two tests. You need to get a test as soon as possible. You will need to get another test on day 5 after you were at the casual contact location. You need to remain in quarantine for the whole time, until you receive a negative test result from the second test.
               o If you were at the casual contact location 4 or more days ago, you only need to get one test. You should get tested as soon as possible. You will need to remain in quarantine until you receive a negative test result.
               o Get tested again for COVID-19 if you experience any symptoms, no matter how mild.
         Status                                      Suburb         Place                                                                                                         Date                       Arrival Time  Departure Time
