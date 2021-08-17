@@ -1,4 +1,4 @@
-  Page last updated: 17 Aug 2021 4:18pm
+  Page last updated: 17 Aug 2021 9:22pm
 
   To keep our community safe, follow ACT Health directions and advice.
 
@@ -197,7 +197,7 @@
               Barton            10 National Circuit, Barton                                                                                                                  
                                                                                                                       Thursday, 12 August 2021                               
       New                       Guzman y Gomez                                                                                                   5.45pm        6.45pm        
-              City              Shop EG07-07B Bunda St, Canberra                                                                                                             
+              Canberra City     Shop EG07-07B Bunda St, Canberra                                                                                                             
                                                                                                                       Tuesday, 10 August 2021                                
       New                       Belconnen Hungry Jacks                                                                                           3.45pm        11.30pm       
               Belconnen         108 Emu Bank, Road, Belconnen                                                                                                                
@@ -375,7 +375,7 @@
                                                                                                                                                                                  Friday, 13 August 2021                                 
         Change to existing site: extension of time  Tuggeranong    Southern Cross basketball stadium, 7 Pitman Street, Greenway                                                                             8.30pm        10:00pm       
                                                                                                                                                                                  Wednesday, 11 August 2021                              
-        New                                         City             Canberra Centre Subway & Food Court                                                                         Monday, 9 August 2021      10:30am       12:00pm       
+        New                                         Canberra City    Canberra Centre Subway & Food Court                                                                         Monday, 9 August 2021      10:30am       12:00pm       
                                                                      Canberra Centre, 148 Bunda Street                                                                                                                                  
         New                                         Weston         Woolworths Weston Creek, Cooleman Court Shopping Centre, Brierly St, Weston                                   Friday, 13 August 2021     6.20pm        7:00pm        
                                                                                                                                                                                                                                         
@@ -385,44 +385,45 @@
 
       If you have been to any of the following locations at the dates and times specified, you should monitor for symptoms.
 
-        Status  Suburb       Place                                                                                        Date                       Arrival time  Departure time
-                                                                                                                                                                                 
-                Fyshwick     Canberra Outlet Centre                                                                       Sunday, 8 August 2021      2:00pm        3:30pm        
-                                                                                                                                                                                 
-                Aranda       Aranda Playing Fields, U14 girls AFL Ainslie Red vs Belconnen Black                          Sunday, 8 August 2021      9:00am        11:30am       
-                                                                                                                                                                                 
-                Casey        Casey Marketplace, 15 Kingsland Parade                                                       Tuesday, 10 August 2021    3:50pm        4:20pm        
-                                                                                                                                                                                 
-                Phillip      Woolworths Phillip, Westfield Woden, Hindmarsh Dr & Melrose Drives                           Tuesday, 10 August 2021    5:30pm        6:30pm        
-                Kingston     Ground Floor only, Abode Hotel. 14 Kennedy St.                                               Wednesday, 11 August 2021  7:50am        7:00pm        
-                                                                                                                                                                                 
-                Kingston     Ochre Medical Centre, Level 1, Green Square Centre 62 Jardine Street                         Wednesday, 11 August 2021  4:30pm        4:40pm        
-                                                                                                                                                                                 
-                Kingston     Ground Floor only, Abode Hotel. 14 Kennedy St.                                               Thursday, 12 August 2021   7:50am        7:00pm        
-                                                                                                                                                                                 
-        New     Tuggeranong  Bunnings Tuggeranong, Anketell St, Greenway                                                                             10.15am       10.50am       
-                                                                                                                          Wednesday, 11 August 2021                              
-        New     Holder       Weston Creek Food Works, FoodWorks, 3, 40 Holder Pl, Holder                                                             5:00pm        5.10pm        
-                                                                                                                          Friday, 13 August 2021                                 
-        New     Holt         Woolworths Kippax, 48 Hardwick Cres, Holt                                                                               11:00am       11.15am       
-                                                                                                                          Tuesday, 10 August 2021                                
-        New     Holt         ALDI Kippax, 50-60 Hardwick Crescent, Kippax Pl, Holt                                                                   1.20pm        2:00pm        
-                                                                                                                          Thursday, 12 August 2021                               
-        New     Hawker       Hawker Drive In Bottle Shop, Belconnen Way &, Springvale Dr, Hawker                                                     4.45pm        5:00pm        
-                                                                                                                          Friday, 13 August 2021                                 
-        New                  CIT Bruce Campus:                                                                                                       8.45am        4.30pm        
-                Bruce        Entire Campus (refer to Close Contacts above if attended Building H), 35 Vowels Cres, Bruce                                                         
-                                                                                                                          Tuesday, 10 August 2021                                
-        New                  CIT Bruce Campus:                                                                                                       12.30pm       10.30pm       
-                Bruce        Entire Campus (refer to Close Contacts above if attended Building H), 35 Vowels Cres, Bruce                                                         
-                                                                                                                          Wednesday, 11 August 2021                              
-        New     Braddon      7-Eleven Braddon, 20 Mort Street                                                                                        5:00pm        5.15pm        
-                                                                                                                          Wednesday, 11 August 2021                              
-        New     Belconnen    Westfield Belconnen, Benjamin Way, Belconnen                                                                            8.45am        10.15am       
-                                                                                                                          Friday, 13 August 2021                                 
-        New     Belconnen    Westfield Belconnen, Benjamin Way, Belconnen                                                                            1.30pm        2.50pm        
-                                                                                                                          Friday, 13 August 2021                                 
-        New     City           Canberra Centre, 148 Bunda Street                                                          Monday, 9 August 2021      10:30am       12:00pm       
+        Status  Suburb         Place                                                                                        Date                       Arrival time  Departure time
+                                                                                                                                                                                   
+                Fyshwick       Canberra Outlet Centre                                                                       Sunday, 8 August 2021      2:00pm        3:30pm        
+                                                                                                                                                                                   
+                Aranda         Aranda Playing Fields, U14 girls AFL Ainslie Red vs Belconnen Black                          Sunday, 8 August 2021      9:00am        11:30am       
+                                                                                                                                                                                   
+                Casey          Casey Marketplace, 15 Kingsland Parade                                                       Tuesday, 10 August 2021    3:50pm        4:20pm        
+                                                                                                                                                                                   
+                Phillip        Woolworths Phillip, Westfield Woden, Hindmarsh Dr & Melrose Drives                           Tuesday, 10 August 2021    5:30pm        6:30pm        
+                Kingston       Ground Floor only, Abode Hotel. 14 Kennedy St.                                               Wednesday, 11 August 2021  7:50am        7:00pm        
+                                                                                                                                                                                   
+                Kingston       Ochre Medical Centre, Level 1, Green Square Centre 62 Jardine Street                         Wednesday, 11 August 2021  4:30pm        4:40pm        
+                                                                                                                                                                                   
+                Kingston       Ground Floor only, Abode Hotel. 14 Kennedy St.                                               Thursday, 12 August 2021   7:50am        7:00pm        
+                                                                                                                                                                                   
+        New     Tuggeranong    Bunnings Tuggeranong, Anketell St, Greenway                                                                             10.15am       10.50am       
+                                                                                                                            Wednesday, 11 August 2021                              
+        New     Holder         Weston Creek Food Works, FoodWorks, 3, 40 Holder Pl, Holder                                                             5:00pm        5.10pm        
+                                                                                                                            Friday, 13 August 2021                                 
+        New     Holt           Woolworths Kippax, 48 Hardwick Cres, Holt                                                                               11:00am       11.15am       
+                                                                                                                            Tuesday, 10 August 2021                                
+        New     Holt           ALDI Kippax, 50-60 Hardwick Crescent, Kippax Pl, Holt                                                                   1.20pm        2:00pm        
+                                                                                                                            Thursday, 12 August 2021                               
+        New     Hawker         Hawker Drive In Bottle Shop, Belconnen Way &, Springvale Dr, Hawker                                                     4.45pm        5:00pm        
+                                                                                                                            Friday, 13 August 2021                                 
+        New                    CIT Bruce Campus:                                                                                                       8.45am        4.30pm        
+                Bruce          Entire Campus (refer to Close Contacts above if attended Building H), 35 Vowels Cres, Bruce                                                         
+                                                                                                                            Tuesday, 10 August 2021                                
+        New                    CIT Bruce Campus:                                                                                                       12.30pm       10.30pm       
+                Bruce          Entire Campus (refer to Close Contacts above if attended Building H), 35 Vowels Cres, Bruce                                                         
+                                                                                                                            Wednesday, 11 August 2021                              
+        New     Braddon        7-Eleven Braddon, 20 Mort Street                                                                                        5:00pm        5.15pm        
+                                                                                                                            Wednesday, 11 August 2021                              
+        New     Belconnen      Westfield Belconnen, Benjamin Way, Belconnen                                                                            8.45am        10.15am       
+                                                                                                                            Friday, 13 August 2021                                 
+        New     Belconnen      Westfield Belconnen, Benjamin Way, Belconnen                                                                            1.30pm        2.50pm        
+                                                                                                                            Friday, 13 August 2021                                 
+        New     Canberra City    Canberra Centre, 148 Bunda Street                                                          Monday, 9 August 2021      10:30am       12:00pm       
+                                                                                                                                                                                   
         
 
         Exposure locations outside the ACT
