@@ -1,4 +1,4 @@
-  Page last updated: 17 Aug 2021 9:58am
+  Page last updated: 17 Aug 2021 11:31am
 
   To keep our community safe, follow ACT Health directions and advice.
 
@@ -14,199 +14,199 @@
     * immediately quarantine
     * get tested for COVID-19 as advised by ACT Health
     * remain in quarantine until advised further by ACT Health, even if you get a negative test result
-      Status  Suburb            Place                                                                                 Date         Arrival Time  Departure Time
-                                                                                                                                                               
-              Canberra City     Fiction Bar, 50 Bunda Street, Canberra City                                           7 Aug 2021   9:00pm        11:59pm       
-                                                                                                                                                               
-              Canberra City     Fiction Bar, 50 Bunda Street, Canberra City                                           8 Aug 2021   12:00am       4:45am        
-                                                                                                                                                               
-              Woden             Church of Pentecost, 19B Irving Street                                                8 Aug 2021   10:30am       1:00pm        
-                                                                                                                                                               
-              Fyshwick          Freedom Furniture, Canberra Outlet Centre, Shop 27, 337 Canberra Avenue               8 Aug 2021   2:00pm        2:20pm        
-                                                                                                                                                               
-              Fyshwick          JB HiFi, Canberra Outlet Centre, Shop t26, 337 Canberra Avenue                        8 Aug 2021   2:15pm        2:55pm        
-                                                                                                                                                               
-              Fyshwick          TK Maxx, Canberra Outlet Centre, 337 Canberra Avenue                                  8 Aug 2021   3:10pm        3:40pm        
-                                                                                                                                                               
-              Fyshwick          Windsor Smith, Canberra Outlet Centre, T103/337 Canberra Avenue                       8 Aug 2021   2:45pm        3:15pm        
-                                                                                                                                                               
-              Braddon           Assembly The People’s Pub, 11 Lonsdale Street                                         8 Aug 2021   8:00pm        9:00pm        
-                                                                                                                                                               
-              Downer            Downer Community Centre, 6 Frencham Place                                             8 Aug 2021   1:00pm        6:00pm        
-                                                                                                                                                               
-              Fyshwick          Stockade Training Centre, 7 Kembla Street                                             9 Aug 2021   7:30am        1:00pm        
-                                                                                                                                                               
-                                Gold Creek School (including early childhood learning), Kelleway Avenue                                                        
-              Nicholls                                                                                                9 Aug 2021   8:25am        5:00pm        
-                                FAQs for schools                                                                                                               
-                                                                                                                                                               
-                                Lyneham High School - Goodwin Street                                                                                           
-              Lyneham                                                                                                 9 Aug 2021   8:30am        3:30pm        
-                                FAQs for schools                                                                                                               
-                                                                                                                                                               
-              Public Transport  Bus Route 30 – Dickson to Kaleen - Stops Cowper Street Dickson to Kaleen High School  9 Aug 2021   3:43pm        4:10pm        
-                                                                                                                                                               
-              Phillip           Lennock Jaguar Land Rover, 126 Melrose Drive                                          9 Aug 2021   8:30am        5:30pm        
-                                                                                                                                                               
-              Mawson            Al Manoosh Bakery, 47 Mawson Place                                                    9 Aug 2021   12 noon       1:00pm        
-                                                                                                                                                               
-              Kaleen            Instrumental Music Program Rehearsal Room, UC High School Kaleen- Baldwin Street      9 Aug 2021   4:00pm        6:00pm        
-                                                                                                                                                               
-              Phillip           Club Lime, Lower Ground Floor, Bonner House, Bradley Street                           9 Aug 2021   5:30pm        7:30pm        
-                                                                                                                                                               
-                                Gold Creek School (including early childhood learning), Kelleway Avenue                                                        
-              Nicholls                                                                                                10 Aug 2021  8:00am        3:10pm        
-                                FAQs for schools                                                                                                               
-                                                                                                                                                               
-              Fyshwick          Pellegrino’s Café, 7/49 Wollongong Street                                             10 Aug 2021  7:15am        8:15am        
-                                                                                                                                                               
-              Phillip           Lennock Jaguar Land Rover, 126 Melrose Drive                                          10 Aug 2021  8:30am        5:30pm        
-                                                                                                                                                               
-                                Lyneham High School - Goodwin Street                                                                                           
-              Lyneham                                                                                                 10 Aug 2021  8:30am        3:30pm        
-                                FAQs for schools                                                                                                               
-                                                                                                                                                               
-              Fyshwick          Stockade Training Centre, 7 Kembla Street                                             10 Aug 2021  9:00am        11:00am       
-                                                                                                                                                               
-              Manuka            Urban Pantry, 5 Bougainville Street                                                   10 Aug 2021  10:30am       1:00pm        
-                                                                                                                                                               
-              Fyshwick          Harvey Norman, Barrier Street                                                         10 Aug 2021  10:00am       11:00am       
-                                                                                                                                                               
-              Canberra City     Coffee Guru Canberra Centre, Shop K05, Canberra Centre, 148 Bunda Street              10 Aug 2021  12 noon       1:00pm        
-                                                                                                                                                               
-              Mitchell          St Vincent de Paul, 32 Buckland Street                                                10 Aug 2021  3:30pm        4:00pm        
-                                                                                                                                                               
-              Bruce             Club Lime – CISAC, 100 Eastern Valley Way                                             10 Aug 2021  6:30pm        8:15pm        
-                                                                                                                                                               
-                                Gold Creek School (including early childhood learning), Kelleway Avenue                                                        
-              Nicholls                                                                                                11 Aug 2021  8:00am        5:00pm        
-                                FAQs for schools                                                                                                               
-                                                                                                                                                               
-              Phillip           Lennock Jaguar Land Rover, 126 Melrose Drive                                          11 Aug 2021  8:30am        5:30pm        
-                                                                                                                                                               
-                                Lyneham High School - Goodwin Street                                                                                           
-              Lyneham                                                                                                 11 Aug 2021  8:30am        3:30pm        
-                                FAQs for schools                                                                                                               
-                                                                                                                                                               
-              Mitchell          North Canberra Business Centre, 54 Vicars Street                                      11 Aug 2021  11:10am       11:30am       
-                                                                                                                                                               
-              Cook              Companion House, 41 Templeton Street                                                  11 Aug 2021  11:30am       11:45am       
-                                                                                                                                                               
-              Kingston          Capital Chemist, Green Square, 62 Jardine Street                                      11 Aug 2021  12 noon       12:15pm       
-                                                                                                                                                               
-              Griffith          Coles Manuka, Franklin Street and Flinders Way                                        11 Aug 2021  12:15pm       12:40pm       
-                                                                                                                                                               
-              Gungahlin         Gunners Place – Youth Centre, Level 1, 20 Hibberson Street                            11 Aug 2021  1:30pm        2:30pm        
-                                                                                                                                                               
-              Bruce             Club Lime – CISAC, 100 Eastern Valley Way                                             11 Aug 2021  4:45pm        7:15pm        
-                                                                                                                                                               
-              Kingston          Turkish Delight, 75/71 Giles Street                                                   11 Aug 2021  6:35pm        6:45pm        
-                                                                                                                                                               
-              Fyshwick          Pellegrino’s Café, 7/49 Wollongong Street                                             11 Aug 2021  8:30am        8:35am        
-                                                                                                                                                               
-              Fyshwick          Pellegrino’s Café, 7/49 Wollongong Street                                             11 Aug 2021  12:00pm       13:00pm       
-                                                                                                                                                               
-                                Gold Creek School, Kelleway Avenue                                                                                             
-              Nicholls          (including Early Childhood Learning Centre)                                           12 Aug 2021  8:00am        3:10pm        
-                                                                                                                                                               
-                                FAQs for schools                                                                                                               
-                                                                                                                                                               
-              Fyshwick          Pellegrino’s Café, 7/49 Wollongong Street                                             12 Aug 2021  8:30am        8:35am        
-                                                                                                                                                               
-                                Lyneham High School - Goodwin Street                                                                                           
-              Lyneham                                                                                                 12 Aug 2021  8:30am        3:30pm        
-                                FAQs for schools                                                                                                               
-                                                                                                                                                               
-              Phillip           Lennock Jaguar Land Rover, 126 Melrose Drive                                          12 Aug 2021  8:30am        5:30pm        
-                                                                                                                                                               
-              Canberra City     Coffee Guru Canberra Centre, Shop K05, Canberra Centre, 148 Bunda Street              12 Aug 2021  10:45am       12 noon       
-                                                                                                                                                               
-              Phillip           Lennock Jaguar Land Rover, 126 Melrose Drive                                          13 Aug 2021  8:30am        5:30pm        
-                                                                                                                                                               
-      New                       Gold Creek Senior Campus Gym                                                                                                   
-              Nicholls          26 Kelleway Ave, Nicholls                                                             9 Aug 2021   5:00pm        9.30pm        
-                                                                                                                                                               
-      New                       Priceline Pharmacy Amaroo                                                                          5:00pm        6.45pm        
-              Amaroo            Shop/ 6 Pioneer Street                                                                12 Aug 2021                              
-                                                                                                                                                               
-      New                       Commonwealth bank Gungahlin                                                                        9.30am        10:00am       
-              Gungahlin         Shop 23-25 Gungahlin Mall, 33 Hibberson St                                            12 Aug 2021                              
-                                                                                                                                                               
-      New                       Club Lime Mawson                                                                                   4.30pm        6.30pm        
-              Mawson            Mawson Southlands Shopping Centre, Level 1, Mawson Dr, Mawson                         9 Aug 2021                               
-                                                                                                                                                               
-      New                       Subsdance Dance Studio                                                                             6:00pm        8:00pm        
-              Kingston          1/27-29 Eyre St, Kingston                                                             10 Aug 2021                              
-                                                                                                                                                               
-      New     Bruce             CIT Bruce Campus: Individuals who attended Building H only                            10 Aug 2021  8.45am        4.30pm        
-                                35 Vowels Cres, Bruce                                                                                                          
-                                                                                                                                                               
-      New     Bruce             CIT Bruce Campus:                                                                     10 Aug 2021  6:00pm        8:00pm        
-                                Psych Accredited Class,                                                                                                        
-                                Room G102                                                                                                                      
-                                35 Vowels Cres, Bruce                                                                                                          
-                                                                                                                                                               
-      New     Bruce             CIT Bruce Campus: Individuals who attended Building H only                            11 Aug 2021  12.30pm       4.40pm        
-                                35 Vowels Cres, Bruce                                                                                                          
-                                                                                                                                                               
-      New     Reid              CIT Reid Campus:                                                                      11 Aug 2021  8.45am        3:00pm        
-                                Entire Campus                                                                                                                  
-                                37 Constitution Ave, Reid                                                                                                      
-                                                                                                                                                               
-      New     Reid              CIT Reid Campus:                                                                      12 Aug 2021  9:00am        2.30pm        
-                                Entire Campus                                                                                                                  
-                                37 Constitution Ave, Reid                                                                                                      
-                                                                                                                                                               
-      New                       Club Lime Gungahlin                                                                                5:00am        6.30am        
-              Gungahlin         Level 1, Gungahlin Square, 43 Hibberson St, Gungahlin                                 11 Aug 2021                              
-                                                                                                                                                               
-      New                       The Civic Pub                                                                                      5:00pm        8.30pm        
-              Braddon           8 Lonsdale Street                                                                     11 Aug 2021                              
-                                                                                                                                                               
-      New                       Melt                                                                                               7.30am        8:00am        
-              Mitchell          109 Flemington Road                                                                   12 Aug 2021                              
-                                                                                                                                                               
-      New                       Lawrence & Hanson Mitchell                                                                         7.30am        8:00am        
-              Mitchell          2/67-71 Vicars Street                                                                 12 Aug 2021                              
-                                                                                                                                                               
-      New                       Lawrence & Hanson Mitchell                                                                         12.40pm       1:00pm        
-              Mitchell          2/67-71 Vicars Street                                                                 12 Aug 2021                              
-                                                                                                                                                               
-      New                       Franklin General Practice                                                                          2.15pm        3.15pm        
-              Franklin          54 Nullarbor Avenue                                                                   12 Aug 2021                              
-                                                                                                                                                               
-      New                       The Civic Pub                                                                                      3.45pm        9.45pm        
-              Braddon           8 Lonsdale Street                                                                     9 Aug 2021                               
-                                                                                                                                                               
-      New                       Assembly                                                                                           7.30pm        10.15pm       
-              Braddon           11 Lonsdale Street                                                                    10 Aug 2021                              
-                                                                                                                                                               
-      New                       Gelato Messina Kingston                                                                            8:00pm        8.40pm        
-              Kingston          38 Eyre St, Kingston                                                                  11 Aug 2021                              
-                                                                                                                                                               
-      New                       Power Kart Raceway                                                                                 7.15pm        8.30pm        
-              Griffith          125 Canberra Ave, Griffith                                                            11 Aug 2021                              
-                                                                                                                                                               
-      New                       F45 Training                                                                                       5:00am        8:00am        
-              Barton            10 National Circuit, Barton                                                           10 Aug 2021                              
-                                                                                                                                                               
-      New                       F45 Training                                                                                       5:00am        8:00am        
-              Barton            10 National Circuit, Barton                                                           11 Aug 2021                              
-                                                                                                                                                               
-      New                       F45 Training                                                                                       5:00am        8:00am        
-              Barton            10 National Circuit, Barton                                                           12 Aug 2021                              
-                                                                                                                                                               
-      New                       Guzman y Gomez                                                                                     5.45pm        6.45pm        
-              City              Shop EG07-07B Bunda St, Canberra                                                      10 Aug 2021                              
-                                                                                                                                                               
-      New                       Belconnen Hungry Jacks                                                                             3.45pm        11.30pm       
-              Belconnen         108 Emu Bank, Road, Belconnen                                                         13 Aug 2021                              
-                                                                                                                                                               
-      New                       Belconnen Hungry Jacks                                                                             8:00am        3.15pm        
-              Belconnen         108 Emu Bank, Road, Belconnen                                                         14 Aug 2021                              
-                                                                                                                                                               
-      New     Bruce             CISAC-Club Lime                                                                       09 Aug 2021  7:00pm        9:00pm        
-                                100 Eastern Valley Way                                                                                                         
+      Status  Suburb            Place                                                                                 Date                       Arrival Time  Departure Time
+                                                                                                                                                                             
+              Canberra City     Fiction Bar, 50 Bunda Street, Canberra City                                           Saturday, 7 August 2021    9:00pm        11:59pm       
+                                                                                                                                                                             
+              Canberra City     Fiction Bar, 50 Bunda Street, Canberra City                                           Sunday, 8 August 2021      12:00am       4:45am        
+                                                                                                                                                                             
+              Woden             Church of Pentecost, 19B Irving Street                                                Sunday, 8 August 2021      10:30am       1:00pm        
+                                                                                                                                                                             
+              Fyshwick          Freedom Furniture, Canberra Outlet Centre, Shop 27, 337 Canberra Avenue               Sunday, 8 August 2021      2:00pm        2:20pm        
+                                                                                                                                                                             
+              Fyshwick          JB HiFi, Canberra Outlet Centre, Shop t26, 337 Canberra Avenue                        Sunday, 8 August 2021      2:15pm        2:55pm        
+                                                                                                                                                                             
+              Fyshwick          TK Maxx, Canberra Outlet Centre, 337 Canberra Avenue                                  Sunday, 8 August 2021      3:10pm        3:40pm        
+                                                                                                                                                                             
+              Fyshwick          Windsor Smith, Canberra Outlet Centre, T103/337 Canberra Avenue                       Sunday, 8 August 2021      2:45pm        3:15pm        
+                                                                                                                                                                             
+              Braddon           Assembly The People’s Pub, 11 Lonsdale Street                                         Sunday, 8 August 2021      8:00pm        9:00pm        
+                                                                                                                                                                             
+              Downer            Downer Community Centre, 6 Frencham Place                                             Sunday, 8 August 2021      1:00pm        6:00pm        
+                                                                                                                                                                             
+              Fyshwick          Stockade Training Centre, 7 Kembla Street                                             Monday, 9 August 2021      7:30am        1:00pm        
+                                                                                                                                                                             
+                                Gold Creek School (including early childhood learning), Kelleway Avenue                                                                      
+              Nicholls                                                                                                Monday, 9 August 2021      8:25am        5:00pm        
+                                FAQs for schools                                                                                                                             
+                                                                                                                                                                             
+                                Lyneham High School - Goodwin Street                                                                                                         
+              Lyneham                                                                                                 Monday, 9 August 2021      8:30am        3:30pm        
+                                FAQs for schools                                                                                                                             
+                                                                                                                                                                             
+              Public Transport  Bus Route 30 – Dickson to Kaleen - Stops Cowper Street Dickson to Kaleen High School  Monday, 9 August 2021      3:43pm        4:10pm        
+                                                                                                                                                                             
+              Phillip           Lennock Jaguar Land Rover, 126 Melrose Drive                                          Monday, 9 August 2021      8:30am        5:30pm        
+                                                                                                                                                                             
+              Mawson            Al Manoosh Bakery, 47 Mawson Place                                                    Monday, 9 August 2021      12 noon       1:00pm        
+                                                                                                                                                                             
+              Kaleen            Instrumental Music Program Rehearsal Room, UC High School Kaleen- Baldwin Street      Monday, 9 August 2021      4:00pm        6:00pm        
+                                                                                                                                                                             
+              Phillip           Club Lime, Lower Ground Floor, Bonner House, Bradley Street                           Monday, 9 August 2021      5:30pm        7:30pm        
+                                                                                                                                                                             
+                                Gold Creek School (including early childhood learning), Kelleway Avenue                                                                      
+              Nicholls                                                                                                Tuesday, 10 August 2021    8:00am        3:10pm        
+                                FAQs for schools                                                                                                                             
+                                                                                                                                                                             
+              Fyshwick          Pellegrino’s Café, 7/49 Wollongong Street                                             Tuesday, 10 August 2021    7:15am        8:15am        
+                                                                                                                                                                             
+              Phillip           Lennock Jaguar Land Rover, 126 Melrose Drive                                          Tuesday, 10 August 2021    8:30am        5:30pm        
+                                                                                                                                                                             
+                                Lyneham High School - Goodwin Street                                                                                                         
+              Lyneham                                                                                                 Tuesday, 10 August 2021    8:30am        3:30pm        
+                                FAQs for schools                                                                                                                             
+                                                                                                                                                                             
+              Fyshwick          Stockade Training Centre, 7 Kembla Street                                             Tuesday, 10 August 2021    9:00am        11:00am       
+                                                                                                                                                                             
+              Manuka            Urban Pantry, 5 Bougainville Street                                                   Tuesday, 10 August 2021    10:30am       1:00pm        
+                                                                                                                                                                             
+              Fyshwick          Harvey Norman, Barrier Street                                                         Tuesday, 10 August 2021    10:00am       11:00am       
+                                                                                                                                                                             
+              Canberra City     Coffee Guru Canberra Centre, Shop K05, Canberra Centre, 148 Bunda Street              Tuesday, 10 August 2021    12 noon       1:00pm        
+                                                                                                                                                                             
+              Mitchell          St Vincent de Paul, 32 Buckland Street                                                Tuesday, 10 August 2021    3:30pm        4:00pm        
+                                                                                                                                                                             
+              Bruce             Club Lime – CISAC, 100 Eastern Valley Way                                             Tuesday, 10 August 2021    6:30pm        8:15pm        
+                                                                                                                                                                             
+                                Gold Creek School (including early childhood learning), Kelleway Avenue                                                                      
+              Nicholls                                                                                                Wednesday, 11 August 2021  8:00am        5:00pm        
+                                FAQs for schools                                                                                                                             
+                                                                                                                                                                             
+              Phillip           Lennock Jaguar Land Rover, 126 Melrose Drive                                          Wednesday, 11 August 2021  8:30am        5:30pm        
+                                                                                                                                                                             
+                                Lyneham High School - Goodwin Street                                                                                                         
+              Lyneham                                                                                                 Wednesday, 11 August 2021  8:30am        3:30pm        
+                                FAQs for schools                                                                                                                             
+                                                                                                                                                                             
+              Mitchell          North Canberra Business Centre, 54 Vicars Street                                      Wednesday, 11 August 2021  11:10am       11:30am       
+                                                                                                                                                                             
+              Cook              Companion House, 41 Templeton Street                                                  Wednesday, 11 August 2021  11:30am       11:45am       
+                                                                                                                                                                             
+              Kingston          Capital Chemist, Green Square, 62 Jardine Street                                      Wednesday, 11 August 2021  12 noon       12:15pm       
+                                                                                                                                                                             
+              Griffith          Coles Manuka, Franklin Street and Flinders Way                                        Wednesday, 11 August 2021  12:15pm       12:40pm       
+                                                                                                                                                                             
+              Gungahlin         Gunners Place – Youth Centre, Level 1, 20 Hibberson Street                            Wednesday, 11 August 2021  1:30pm        2:30pm        
+                                                                                                                                                                             
+              Bruce             Club Lime – CISAC, 100 Eastern Valley Way                                             Wednesday, 11 August 2021  4:45pm        7:15pm        
+                                                                                                                                                                             
+              Kingston          Turkish Delight, 75/71 Giles Street                                                   Wednesday, 11 August 2021  6:35pm        6:45pm        
+                                                                                                                                                                             
+              Fyshwick          Pellegrino’s Café, 7/49 Wollongong Street                                             Wednesday, 11 August 2021  8:30am        8:35am        
+                                                                                                                                                                             
+              Fyshwick          Pellegrino’s Café, 7/49 Wollongong Street                                             Wednesday, 11 August 2021  12:00pm       13:00pm       
+                                                                                                                                                                             
+                                Gold Creek School, Kelleway Avenue                                                                                                           
+              Nicholls          (including Early Childhood Learning Centre)                                                                      8:00am        3:10pm        
+                                                                                                                      Thursday, 12 August 2021                               
+                                FAQs for schools                                                                                                                             
+                                                                                                                                                                             
+              Fyshwick          Pellegrino’s Café, 7/49 Wollongong Street                                             Thursday, 12 August 2021   8:30am        8:35am        
+                                                                                                                                                                             
+                                Lyneham High School - Goodwin Street                                                                                                         
+              Lyneham                                                                                                 Thursday, 12 August 2021   8:30am        3:30pm        
+                                FAQs for schools                                                                                                                             
+                                                                                                                                                                             
+              Phillip           Lennock Jaguar Land Rover, 126 Melrose Drive                                          Thursday, 12 August 2021   8:30am        5:30pm        
+                                                                                                                                                                             
+              Canberra City     Coffee Guru Canberra Centre, Shop K05, Canberra Centre, 148 Bunda Street              Thursday, 12 August 2021   10:45am       12 noon       
+                                                                                                                                                                             
+              Phillip           Lennock Jaguar Land Rover, 126 Melrose Drive                                          Friday, 13 August 2021     8:30am        5:30pm        
+                                                                                                                                                                             
+      New                       Gold Creek Senior Campus Gym                                                                                                                 
+              Nicholls          26 Kelleway Ave, Nicholls                                                                                        5:00pm        9.30pm        
+                                                                                                                      Monday, 9 August 2021                                  
+      New                       Priceline Pharmacy Amaroo                                                                                        5:00pm        6.45pm        
+              Amaroo            Shop/ 6 Pioneer Street                                                                                                                       
+                                                                                                                      Thursday, 12 August 2021                               
+      New                       Commonwealth bank Gungahlin                                                                                      9.30am        10:00am       
+              Gungahlin         Shop 23-25 Gungahlin Mall, 33 Hibberson St                                                                                                   
+                                                                                                                      Thursday, 12 August 2021                               
+      New                       Club Lime Mawson                                                                                                 4.30pm        6.30pm        
+              Mawson            Mawson Southlands Shopping Centre, Level 1, Mawson Dr, Mawson                                                                                
+                                                                                                                      Monday, 9 August 2021                                  
+      New                       Subsdance Dance Studio                                                                                           6:00pm        8:00pm        
+              Kingston          1/27-29 Eyre St, Kingston                                                                                                                    
+                                                                                                                      Tuesday, 10 August 2021                                
+      New     Bruce             CIT Bruce Campus: Individuals who attended Building H only                            Tuesday, 10 August 2021    8.45am        4.30pm        
+                                35 Vowels Cres, Bruce                                                                                                                        
+                                                                                                                                                                             
+      New     Bruce             CIT Bruce Campus:                                                                     Tuesday, 10 August 2021    6:00pm        8:00pm        
+                                Psych Accredited Class,                                                                                                                      
+                                Room G102                                                                                                                                    
+                                35 Vowels Cres, Bruce                                                                                                                        
+                                                                                                                                                                             
+      New     Bruce             CIT Bruce Campus: Individuals who attended Building H only                            Wednesday, 11 August 2021  12.30pm       4.40pm        
+                                35 Vowels Cres, Bruce                                                                                                                        
+                                                                                                                                                                             
+      New     Reid              CIT Reid Campus:                                                                      Wednesday, 11 August 2021  8.45am        3:00pm        
+                                Entire Campus                                                                                                                                
+                                37 Constitution Ave, Reid                                                                                                                    
+                                                                                                                                                                             
+      New     Reid              CIT Reid Campus:                                                                      Thursday, 12 August 2021   9:00am        2.30pm        
+                                Entire Campus                                                                                                                                
+                                37 Constitution Ave, Reid                                                                                                                    
+                                                                                                                                                                             
+      New                       Club Lime Gungahlin                                                                                              5:00am        6.30am        
+              Gungahlin         Level 1, Gungahlin Square, 43 Hibberson St, Gungahlin                                                                                        
+                                                                                                                      Wednesday, 11 August 2021                              
+      New                       The Civic Pub                                                                                                    5:00pm        8.30pm        
+              Braddon           8 Lonsdale Street                                                                                                                            
+                                                                                                                      Wednesday, 11 August 2021                              
+      New                       Melt                                                                                                             7.30am        8:00am        
+              Mitchell          109 Flemington Road                                                                                                                          
+                                                                                                                      Thursday, 12 August 2021                               
+      New                       Lawrence & Hanson Mitchell                                                                                       7.30am        8:00am        
+              Mitchell          2/67-71 Vicars Street                                                                                                                        
+                                                                                                                      Thursday, 12 August 2021                               
+      New                       Lawrence & Hanson Mitchell                                                                                       12.40pm       1:00pm        
+              Mitchell          2/67-71 Vicars Street                                                                                                                        
+                                                                                                                      Thursday, 12 August 2021                               
+      New                       Franklin General Practice                                                                                        2.15pm        3.15pm        
+              Franklin          54 Nullarbor Avenue                                                                                                                          
+                                                                                                                      Thursday, 12 August 2021                               
+      New                       The Civic Pub                                                                                                    3.45pm        9.45pm        
+              Braddon           8 Lonsdale Street                                                                                                                            
+                                                                                                                      Monday, 9 August 2021                                  
+      New                       Assembly                                                                                                         7.30pm        10.15pm       
+              Braddon           11 Lonsdale Street                                                                                                                           
+                                                                                                                      Tuesday, 10 August 2021                                
+      New                       Gelato Messina Kingston                                                                                          8:00pm        8.40pm        
+              Kingston          38 Eyre St, Kingston                                                                                                                         
+                                                                                                                      Wednesday, 11 August 2021                              
+      New                       Power Kart Raceway                                                                                               7.15pm        8.30pm        
+              Griffith          125 Canberra Ave, Griffith                                                                                                                   
+                                                                                                                      Wednesday, 11 August 2021                              
+      New                       F45 Training                                                                                                     5:00am        8:00am        
+              Barton            10 National Circuit, Barton                                                                                                                  
+                                                                                                                      Tuesday, 10 August 2021                                
+      New                       F45 Training                                                                                                     5:00am        8:00am        
+              Barton            10 National Circuit, Barton                                                                                                                  
+                                                                                                                      Wednesday, 11 August 2021                              
+      New                       F45 Training                                                                                                     5:00am        8:00am        
+              Barton            10 National Circuit, Barton                                                                                                                  
+                                                                                                                      Thursday, 12 August 2021                               
+      New                       Guzman y Gomez                                                                                                   5.45pm        6.45pm        
+              City              Shop EG07-07B Bunda St, Canberra                                                                                                             
+                                                                                                                      Tuesday, 10 August 2021                                
+      New                       Belconnen Hungry Jacks                                                                                           3.45pm        11.30pm       
+              Belconnen         108 Emu Bank, Road, Belconnen                                                                                                                
+                                                                                                                      Friday, 13 August 2021                                 
+      New                       Belconnen Hungry Jacks                                                                                           8:00am        3.15pm        
+              Belconnen         108 Emu Bank, Road, Belconnen                                                                                                                
+                                                                                                                      Saturday, 14 August 2021                               
+      New     Bruce             CISAC-Club Lime                                                                       Monday, 9 August 2021      7:00pm        9:00pm        
+                                100 Eastern Valley Way                                                                                                                       
       
 
     Casual contact exposure locations in the ACT
@@ -219,210 +219,210 @@
               o If you were at the casual contact location less than 4 days ago, you will need two tests. You need to get a test as soon as you find out you are a casual contact. You will need to get another test on day 5 after you were at the casual contact location. You need to remain in quarantine for the whole time, until you receive a negative test result from the second test.
               o If you were at the casual contact location 4 or more days ago, you only need to get one test. You should get tested as soon as possible. You will need to remain in quarantine until you receive a negative test result.
               o Get tested again for COVID-19 if you experience any symptoms, no matter how mild.
-        Status                                      Suburb         Place                                                                                                         Date         Arrival Time  Departure Time
-                                                                                                                                                                                                                          
-                                                    Fyshwick       Central Food Court, Canberra Outlet Centre                                                                    8 Aug 2021   1:30pm        2:30pm        
-                                                                                                                                                                                                                          
-                                                    Fyshwick       Boost Juice, Canberra Outlet Centre, 377 Canberra Avenue                                                      8 Aug 2021   1:35pm        2:05pm        
-                                                                                                                                                                                                                          
-                                                    Amaroo         Coles Amaroo, Horse Park Drive                                                                                8 Aug 2021   4:00pm        4:20pm        
-                                                                                                                                                                                                                          
-                                                                   Holy Spirit Catholic Primary School, 26 Kelleway Avenue                                                                                                
-                                                    Nicholls       (including Early Childhood Learning Centre)                                                                   9 Aug 2021   8:25am        5:00pm        
-                                                                                                                                                                                                                          
-                                                                   FAQs for schools                                                                                                                                       
-                                                                                                                                                                                                                          
-                                                    Dickson        Woolworths Dickson, Dickson Place                                                                             9 Aug 2021   3:00pm        4:00pm        
-                                                                                                                                                                                                                          
-                                                    Dickson        KFC Dickson, Bradham Street and Wooley Streets Dickson                                                        9 Aug 2021   3:00pm        4:00pm        
-                                                                                                                                                                                                                          
-                                                    Fyshwick       St George Bank, 58 Wollongong Street                                                                          9 Aug 2021   10:35am       11:00am       
-                                                                                                                                                                                                                          
-                                                    Fyshwick       Stockade Training Centre, 7 Kembla Street                                                                     9 Aug 2021   3:45pm        5:30pm        
-                                                                                                                                                                                                                          
-                                                                   Holy Spirit Catholic Primary School, 26 Kelleway Avenue                                                                                                
-                                                    Nicholls       (including Early Childhood Learning Centre)                                                                   10 Aug 2021  8:00am        3:10pm        
-                                                                                                                                                                                                                          
-                                                                   FAQs for schools                                                                                                                                       
-                                                                                                                                                                                                                          
-                                                    Canberra City  Civic Square Post Office, Shop G14-16, Canberra Centre 148 Bunda Street                                       10 Aug 2021  9:30am        9:50am        
-                                                                                                                                                                                                                          
-                                                    Gungahlin      Kmart Gungahlin, 33 Hibberson Street                                                                          10 Aug 2021  3:00pm        4:00pm        
-                                                                                                                                                                                                                          
-                                                    Gungahlin      Big W Gungahlin, Gozzard Street                                                                               10 Aug 2021  3:45pm        4:30pm        
-                                                                                                                                                                                                                          
-                                                    Casey          Supabarn, 15 Kingsland Parade                                                                                 10 Aug 2021  4:00pm        4:10pm        
-                                                                                                                                                                                                                          
-                                                    Casey          Sushi Island, 15/22 Kingsland Parade                                                                          10 Aug 2021  4:00pm        4:15pm        
-                                                                                                                                                                                                                          
-                                                    Canberra City  David Jones Canberra Centre, 148 Bunda Street                                                                 10 Aug 2021  5:15pm        6:00pm        
-                                                                                                                                                                                                                          
-                                                    Belconnen      TLE Electrical & Data supplies, 22-36 Oatley Court                                                            11 Aug 2021  7:45am        8:30am        
-                                                                                                                                                                                                                          
-                                                                   Abode Hotel, 14 Kennedy Street                                                                                                                         
-                                                    Kingston                                                                                                                     11 Aug 2021  7:50am        11:59pm       
-                                                                   (Floors 1, 2 and 3)                                                                                                                                    
-                                                                                                                                                                                                                          
-                                                                   Holy Spirit Catholic Primary School, 26 Kelleway Avenue                                                                                                
-                                                    Nicholls       (including Early Childhood Learning Centre)                                                                   11 Aug 2021  8:00am        5:00pm        
-                                                                                                                                                                                                                          
-                                                                   FAQs for schools                                                                                                                                       
-                                                                                                                                                                                                                          
-                                                    Deakin         EQ Café and Lounge, 70 Kent Street                                                                            11 Aug 2021  6:30am        4:00pm        
-                                                                                                                                                                                                                          
-                                                    Deakin         EQ Bakehouse, 70 Kent Street                                                                                  11 Aug 2021  7:00am        4:00pm        
-                                                                                                                                                                                                                          
-                                                    Casey          Sushi Island, 15/22 Kingsland Parade                                                                          11 Aug 2021  1:00pm        1:10pm        
-                                                                                                                                                                                                                          
-                                                    Casey          Supabarn Casey, 15 Kingsland Parade                                                                           11 Aug 2021  1:05pm        1:30pm        
-                                                                                                                                                                                                                          
-                                                    Charnwood      Woolworths Charnwood, 25-30 Charnwood Place                                                                   11 Aug 2021  6:30pm        7:10pm        
-                                                                                                                                                                                                                          
-                                                    Greenway       Southern Cross Club Stadium, 7 Pitman Street                                                                  11 Aug 2021  7:00pm        9:00pm        
-                                                                                                                                                                                                                          
-                                                                   Abode Hotel, 14 Kennedy Street                                                                                                                         
-                                                    Kingston                                                                                                                     12 Aug 2021  12:00am       7:00pm        
-                                                                   (Floors 1, 2 and 3)                                                                                                                                    
-                                                                                                                                                                                                                          
-                                                    Belconnen      TLE Electrical & Data supplies, 22-36 Oatley Court                                                            12 Aug 2021  7:30am        8:15am        
-                                                                                                                                                                                                                          
-                                                    Belconnen      Coles Express Belconnen (Petrol Station), Lathlain Street and Wignall Place                                   12 Aug 2021  7:50am        8:10am        
-                                                                                                                                                                                                                          
-                                                                   Holy Spirit Catholic Primary School, 26 Kelleway Avenue                                                                                                
-                                                    Nicholls       (including Early Childhood Learning Centre)                                                                   12 Aug 2021  8:00am        3:10pm        
-                                                                                                                                                                                                                          
-                                                                   FAQs for schools                                                                                                                                       
-                                                                                                                                                                                                                          
-                                                    Deakin         EQ Bakehouse, 70 Kent Street                                                                                  12 Aug 2021  7:00am        10:00am       
-                                                                                                                                                                                                                          
-        New                                         Amaroo         Coles Amaroo, Horse Park Drive                                                                                13 Aug 2021  11:30am       1pm           
-                                                                                                                                                                                                                          
-        New                                         Amaroo         Liquorland Amaroo, Horse Park Drive                                                                           13 Aug 2021  12pm          12.30pm       
-                                                                                                                                                                                                                          
-        New                                         Casey          7 eleven Casey, petrol station, 10 Kingsland Parade                                                           14 Aug 2021  7.30am        8.15am        
-                                                                                                                                                                                                                          
-        New                                         Fyshwick       Ampol fuel, 149 Canberra Avenue, Fyshwick                                                                     11 Aug 2021  1:10pm        1.30pm        
-                                                                                                                                                                                                                          
-        New                                         Majura Park    Bunnings Warehouse Canberra Airport, 971 Majura Rd, Majura Park                                               9 Aug 2021   9:00am        10.30am       
-                                                                                                                                                                                                                          
-        New                                         Belconnen      Basketball ACT, Basketball & Sports Centre, 42 Oatley Ct, Belconnen                                           10 Aug 2021  12:00pm       3:00pm        
-                                                                                                                                                                                                                          
-        New                                         Weston         Woolworths Weston Creek, Cooleman Court Shopping Centre, Brierly St, Weston                                   13 Aug 2021  6.20pm        7:00pm        
-                                                                                                                                                                                                                          
-        New                                         Weston         ALDI Weston Creek, Cooleman Court Shopping Centre, Brierly St, Weston                                         13 Aug 2021  6:00pm        6.30pm        
-                                                                                                                                                                                                                          
-        New                                         Belconnen      Basketball ACT, Basketball & Sports Centre, 42 Oatley Ct, Belconnen                                           11 Aug 2021  6.40am        9:00pm        
-                                                                                                                                                                                                                          
-        New                                         Gungahlin      Big W, Gozzard St, Gungahlin                                                                                  12 Aug 2021  2.40pm        3:00pm        
-                                                                                                                                                                                                                          
-        New                                         Gungahlin      St George Bank, 30 Hibberson St, Gungahlin                                                                    12 Aug 2021  2.40pm        3.10pm        
-                                                                                                                                                                                                                          
-        New                                         Gungahlin      Commonwealth Bank, 33 Hibberson St Shops 23, 25 Gungahlin Mall, Gungahlin                                     12 Aug 2021  3:00pm        3.20pm        
-                                                                                                                                                                                                                          
-        New                                         Gungahlin      Service Australia, 30 Hibberson Street, Gungahlin                                                             12 Aug 2021  3.10pm        3.30pm        
-                                                                                                                                                                                                                          
-        New                                         Gungahlin      Vodafone, 18 Hibberson St, Gungahlin                                                                          12 Aug 2021  3.20pm        3.45pm        
-                                                                                                                                                                                                                          
-        New                                         Gungahlin      Reject Shop, Gungahlin Village, Corner Hibberson Street & Gungahlin Place Shop 2, 46 Hibberson St, Gungahlin  12 Aug 2021  3.45pm        4.10pm        
-                                                                                                                                                                                                                          
-        New                                         Gungahlin      Mr Sushi, Gungahlin                                                                                           12 Aug 2021  4:00pm        4.15pm        
-                                                                                                                                                                                                                          
-        New                                         Dickson        Woolworths Dickson, 1 Dickson Place                                                                           11 Aug 2021  3:00pm        3.30pm        
-                                                                                                                                                                                                                          
-        New                                         Braddon        Crust Pizza, 28 Mort Street                                                                                   13 Aug 2021  5.30pm        5.45pm        
-                                                                                                                                                                                                                          
-        New                                         Civic          Coles Canberra Civic, Bunda Street & Petrie Street                                                            13 Aug 2021  6.55pm        7.30pm        
-                                                                                                                                                                                                                          
-        New                                         Symonston      Mugga Lane Resource Management Centre, Mugga Lane                                                             9 Aug 2021   10:00am       10.30am       
-                                                                                                                                                                                                                          
-        New                                         Braddon        Officeworks Braddon, 30 Mort Street                                                                           9 Aug 2021   3.15pm        4:00pm        
-                                                                                                                                                                                                                          
-        New                                         Fyshwick       Seears Workwear, 60 Barrier Street                                                                            10 Aug 2021  4:00pm        4.15pm        
-                                                                                                                                                                                                                          
-        New                                         Braddon        First Choice Liquor, 48 Mort Street                                                                           10 Aug 2021  4.25pm        4.45pm        
-                                                                                                                                                                                                                          
-        New                                         Melba          Cafe Mame, 2/4-6 Melba Ct                                                                                     11 Aug 2021  8.50am        9.15am        
-                                                                                                                                                                                                                          
-        New                                         Melba          IGA Melba, 1/4-6 Melba Ct                                                                                     11 Aug 2021  8.50am        9.15am        
-                                                                                                                                                                                                                          
-        New                                         Braddon        Beyond Pharmacy, 4/18 Lonsdale Street                                                                         12 Aug 2021  3.45pm        4:00pm        
-                                                                                                                                                                                                                          
-        New                                         Braddon        7-Eleven Braddon, 20 Mort Street                                                                              12 Aug 2021  3.45pm        4:00pm        
-                                                                                                                                                                                                                          
-        New                                         Phillip        Elite Supplements, 13 Keltie St, Phillip                                                                      11 Aug 2021  11.15am       12.15pm       
-                                                                                                                                                                                                                          
-        New                                         Phillip        Rebel Sport, SHOP LM2 Keltie St, Phillip                                                                      11 Aug 2021  11.15am       12.15pm       
-                                                                                                                                                                                                                          
-        New                                         Belconnen      Westfield Aldi, Benjamin Way, Belconnen                                                                       13 Aug 2021  8.45am        9.20am        
-                                                                                                                                                                                                                          
-        New                                         Belconnen      Westfield Woolworths, Benjamin Way, Belconnen                                                                 13 Aug 2021  9.05am        9.45am        
-                                                                                                                                                                                                                          
-        New                                         Belconnen      Westfield Coles, Benjamin Way, Belconnen                                                                      13 Aug 2021  9.35am        10:00am       
-                                                                                                                                                                                                                          
-        New                                         Belconnen      Westfield Post Office, Benjamin Way, Belconnen                                                                13 Aug 2021  9.50am        10.15am       
-                                                                                                                                                                                                                          
-        New                                         Majura Park    Costco, 39-41 Mustang Ave, Majura Park                                                                        13 Aug 2021  12:00pm       1:00pm        
-                                                                                                                                                                                                                          
-        New                                         Belconnen      Coles at Belconnen Westfield, Benjamin Way, Belconnen                                                         14 Aug 2021  9.20am        10:00am       
-                                                                                                                                                                                                                          
-        New                                         Belconnen      Westfield Woolworths, Benjamin Way, Belconnen                                                                 13 Aug 2021  1.45pm        2.10pm        
-                                                                                                                                                                                                                          
-        New                                         Belconnen      Westfield Aldi, Benjamin Way, Belconnen                                                                       13 Aug 2021  2:00pm        2.25pm        
-                                                                                                                                                                                                                          
-        New                                         Belconnen      Westfield Coles, Benjamin Way, Belconnen                                                                      13 Aug 2021  2.15pm        2.45pm        
-                                                                                                                                                                                                                          
-        New                                         Belconnen      Westfield Elite Supplements, Benjamin Way, Belconnen                                                          13 Aug 2021  2.30pm        2.45pm        
-                                                                                                                                                                                                                          
-        Change to existing site: extension of time  Tuggeranong    Southern Cross basketball stadium, 7 Pitman Street, Greenway                                                  11 Aug 2021  8.30pm        10:00pm       
-                                                                                                                                                                                                                          
-        New                                         City             Canberra Centre Subway & Food Court                                                                         09 Aug 2021  10:30am       12:00pm       
-                                                                     Canberra Centre, 148 Bunda Street                                                                                                                    
+        Status                                      Suburb         Place                                                                                                         Date                       Arrival Time  Departure Time
+                                                                                                                                                                                                                                        
+                                                    Fyshwick       Central Food Court, Canberra Outlet Centre                                                                    Sunday, 8 August 2021      1:30pm        2:30pm        
+                                                                                                                                                                                                                                        
+                                                    Fyshwick       Boost Juice, Canberra Outlet Centre, 377 Canberra Avenue                                                      Sunday, 8 August 2021      1:35pm        2:05pm        
+                                                                                                                                                                                                                                        
+                                                    Amaroo         Coles Amaroo, Horse Park Drive                                                                                Sunday, 8 August 2021      4:00pm        4:20pm        
+                                                                                                                                                                                                                                        
+                                                                   Holy Spirit Catholic Primary School, 26 Kelleway Avenue                                                                                                              
+                                                    Nicholls       (including Early Childhood Learning Centre)                                                                                              8:25am        5:00pm        
+                                                                                                                                                                                 Monday, 9 August 2021                                  
+                                                                   FAQs for schools                                                                                                                                                     
+                                                                                                                                                                                                                                        
+                                                    Dickson        Woolworths Dickson, Dickson Place                                                                             Monday, 9 August 2021      3:00pm        4:00pm        
+                                                                                                                                                                                                                                        
+                                                    Dickson        KFC Dickson, Bradham Street and Wooley Streets Dickson                                                        Monday, 9 August 2021      3:00pm        4:00pm        
+                                                                                                                                                                                                                                        
+                                                    Fyshwick       St George Bank, 58 Wollongong Street                                                                          Monday, 9 August 2021      10:35am       11:00am       
+                                                                                                                                                                                                                                        
+                                                    Fyshwick       Stockade Training Centre, 7 Kembla Street                                                                     Monday, 9 August 2021      3:45pm        5:30pm        
+                                                                                                                                                                                                                                        
+                                                                   Holy Spirit Catholic Primary School, 26 Kelleway Avenue                                                                                                              
+                                                    Nicholls       (including Early Childhood Learning Centre)                                                                                              8:00am        3:10pm        
+                                                                                                                                                                                 Tuesday, 10 August 2021                                
+                                                                   FAQs for schools                                                                                                                                                     
+                                                                                                                                                                                                                                        
+                                                    Canberra City  Civic Square Post Office, Shop G14-16, Canberra Centre 148 Bunda Street                                       Tuesday, 10 August 2021    9:30am        9:50am        
+                                                                                                                                                                                                                                        
+                                                    Gungahlin      Kmart Gungahlin, 33 Hibberson Street                                                                          Tuesday, 10 August 2021    3:00pm        4:00pm        
+                                                                                                                                                                                                                                        
+                                                    Gungahlin      Big W Gungahlin, Gozzard Street                                                                               Tuesday, 10 August 2021    3:45pm        4:30pm        
+                                                                                                                                                                                                                                        
+                                                    Casey          Supabarn, 15 Kingsland Parade                                                                                 Tuesday, 10 August 2021    4:00pm        4:10pm        
+                                                                                                                                                                                                                                        
+                                                    Casey          Sushi Island, 15/22 Kingsland Parade                                                                          Tuesday, 10 August 2021    4:00pm        4:15pm        
+                                                                                                                                                                                                                                        
+                                                    Canberra City  David Jones Canberra Centre, 148 Bunda Street                                                                 Tuesday, 10 August 2021    5:15pm        6:00pm        
+                                                                                                                                                                                                                                        
+                                                    Belconnen      TLE Electrical & Data supplies, 22-36 Oatley Court                                                            Wednesday, 11 August 2021  7:45am        8:30am        
+                                                                                                                                                                                                                                        
+                                                                   Abode Hotel, 14 Kennedy Street                                                                                                                                       
+                                                    Kingston                                                                                                                     Wednesday, 11 August 2021  7:50am        11:59pm       
+                                                                   (Floors 1, 2 and 3)                                                                                                                                                  
+                                                                                                                                                                                                                                        
+                                                                   Holy Spirit Catholic Primary School, 26 Kelleway Avenue                                                                                                              
+                                                    Nicholls       (including Early Childhood Learning Centre)                                                                                              8:00am        5:00pm        
+                                                                                                                                                                                 Wednesday, 11 August 2021                              
+                                                                   FAQs for schools                                                                                                                                                     
+                                                                                                                                                                                                                                        
+                                                    Deakin         EQ Café and Lounge, 70 Kent Street                                                                            Wednesday, 11 August 2021  6:30am        4:00pm        
+                                                                                                                                                                                                                                        
+                                                    Deakin         EQ Bakehouse, 70 Kent Street                                                                                  Wednesday, 11 August 2021  7:00am        4:00pm        
+                                                                                                                                                                                                                                        
+                                                    Casey          Sushi Island, 15/22 Kingsland Parade                                                                          Wednesday, 11 August 2021  1:00pm        1:10pm        
+                                                                                                                                                                                                                                        
+                                                    Casey          Supabarn Casey, 15 Kingsland Parade                                                                           Wednesday, 11 August 2021  1:05pm        1:30pm        
+                                                                                                                                                                                                                                        
+                                                    Charnwood      Woolworths Charnwood, 25-30 Charnwood Place                                                                   Wednesday, 11 August 2021  6:30pm        7:10pm        
+                                                                                                                                                                                                                                        
+                                                    Greenway       Southern Cross Club Stadium, 7 Pitman Street                                                                  Wednesday, 11 August 2021  7:00pm        9:00pm        
+                                                                                                                                                                                                                                        
+                                                                   Abode Hotel, 14 Kennedy Street                                                                                                                                       
+                                                    Kingston                                                                                                                     Thursday, 12 August 2021   12:00am       7:00pm        
+                                                                   (Floors 1, 2 and 3)                                                                                                                                                  
+                                                                                                                                                                                                                                        
+                                                    Belconnen      TLE Electrical & Data supplies, 22-36 Oatley Court                                                            Thursday, 12 August 2021   7:30am        8:15am        
+                                                                                                                                                                                                                                        
+                                                    Belconnen      Coles Express Belconnen (Petrol Station), Lathlain Street and Wignall Place                                   Thursday, 12 August 2021   7:50am        8:10am        
+                                                                                                                                                                                                                                        
+                                                                   Holy Spirit Catholic Primary School, 26 Kelleway Avenue                                                                                                              
+                                                    Nicholls       (including Early Childhood Learning Centre)                                                                                              8:00am        3:10pm        
+                                                                                                                                                                                 Thursday, 12 August 2021                               
+                                                                   FAQs for schools                                                                                                                                                     
+                                                                                                                                                                                                                                        
+                                                    Deakin         EQ Bakehouse, 70 Kent Street                                                                                  Thursday, 12 August 2021   7:00am        10:00am       
+                                                                                                                                                                                                                                        
+        New                                         Amaroo         Coles Amaroo, Horse Park Drive                                                                                                           11:30am       1pm           
+                                                                                                                                                                                 Friday, 13 August 2021                                 
+        New                                         Amaroo         Liquorland Amaroo, Horse Park Drive                                                                                                      12pm          12.30pm       
+                                                                                                                                                                                 Friday, 13 August 2021                                 
+        New                                         Casey          7 eleven Casey, petrol station, 10 Kingsland Parade                                                                                      7.30am        8.15am        
+                                                                                                                                                                                 Saturday, 14 August 2021                               
+        New                                         Fyshwick       Ampol fuel, 149 Canberra Avenue, Fyshwick                                                                                                1:10pm        1.30pm        
+                                                                                                                                                                                 Wednesday, 11 August 2021                              
+        New                                         Majura Park    Bunnings Warehouse Canberra Airport, 971 Majura Rd, Majura Park                                                                          9:00am        10.30am       
+                                                                                                                                                                                 Monday, 9 August 2021                                  
+        New                                         Belconnen      Basketball ACT, Basketball & Sports Centre, 42 Oatley Ct, Belconnen                                                                      12:00pm       3:00pm        
+                                                                                                                                                                                 Tuesday, 10 August 2021                                
+        New                                         Weston         Woolworths Weston Creek, Cooleman Court Shopping Centre, Brierly St, Weston                                                              6.20pm        7:00pm        
+                                                                                                                                                                                 Friday, 13 August 2021                                 
+        New                                         Weston         ALDI Weston Creek, Cooleman Court Shopping Centre, Brierly St, Weston                                                                    6:00pm        6.30pm        
+                                                                                                                                                                                 Friday, 13 August 2021                                 
+        New                                         Belconnen      Basketball ACT, Basketball & Sports Centre, 42 Oatley Ct, Belconnen                                                                      6.40am        9:00pm        
+                                                                                                                                                                                 Wednesday, 11 August 2021                              
+        New                                         Gungahlin      Big W, Gozzard St, Gungahlin                                                                                                             2.40pm        3:00pm        
+                                                                                                                                                                                 Thursday, 12 August 2021                               
+        New                                         Gungahlin      St George Bank, 30 Hibberson St, Gungahlin                                                                                               2.40pm        3.10pm        
+                                                                                                                                                                                 Thursday, 12 August 2021                               
+        New                                         Gungahlin      Commonwealth Bank, 33 Hibberson St Shops 23, 25 Gungahlin Mall, Gungahlin                                                                3:00pm        3.20pm        
+                                                                                                                                                                                 Thursday, 12 August 2021                               
+        New                                         Gungahlin      Service Australia, 30 Hibberson Street, Gungahlin                                                                                        3.10pm        3.30pm        
+                                                                                                                                                                                 Thursday, 12 August 2021                               
+        New                                         Gungahlin      Vodafone, 18 Hibberson St, Gungahlin                                                                                                     3.20pm        3.45pm        
+                                                                                                                                                                                 Thursday, 12 August 2021                               
+        New                                         Gungahlin      Reject Shop, Gungahlin Village, Corner Hibberson Street & Gungahlin Place Shop 2, 46 Hibberson St, Gungahlin                             3.45pm        4.10pm        
+                                                                                                                                                                                 Thursday, 12 August 2021                               
+        New                                         Gungahlin      Mr Sushi, Gungahlin                                                                                                                      4:00pm        4.15pm        
+                                                                                                                                                                                 Thursday, 12 August 2021                               
+        New                                         Dickson        Woolworths Dickson, 1 Dickson Place                                                                                                      3:00pm        3.30pm        
+                                                                                                                                                                                 Wednesday, 11 August 2021                              
+        New                                         Braddon        Crust Pizza, 28 Mort Street                                                                                                              5.30pm        5.45pm        
+                                                                                                                                                                                 Friday, 13 August 2021                                 
+        New                                         Civic          Coles Canberra Civic, Bunda Street & Petrie Street                                                                                       6.55pm        7.30pm        
+                                                                                                                                                                                 Friday, 13 August 2021                                 
+        New                                         Symonston      Mugga Lane Resource Management Centre, Mugga Lane                                                                                        10:00am       10.30am       
+                                                                                                                                                                                 Monday, 9 August 2021                                  
+        New                                         Braddon        Officeworks Braddon, 30 Mort Street                                                                                                      3.15pm        4:00pm        
+                                                                                                                                                                                 Monday, 9 August 2021                                  
+        New                                         Fyshwick       Seears Workwear, 60 Barrier Street                                                                                                       4:00pm        4.15pm        
+                                                                                                                                                                                 Tuesday, 10 August 2021                                
+        New                                         Braddon        First Choice Liquor, 48 Mort Street                                                                                                      4.25pm        4.45pm        
+                                                                                                                                                                                 Tuesday, 10 August 2021                                
+        New                                         Melba          Cafe Mame, 2/4-6 Melba Ct                                                                                                                8.50am        9.15am        
+                                                                                                                                                                                 Wednesday, 11 August 2021                              
+        New                                         Melba          IGA Melba, 1/4-6 Melba Ct                                                                                                                8.50am        9.15am        
+                                                                                                                                                                                 Wednesday, 11 August 2021                              
+        New                                         Braddon        Beyond Pharmacy, 4/18 Lonsdale Street                                                                                                    3.45pm        4:00pm        
+                                                                                                                                                                                 Thursday, 12 August 2021                               
+        New                                         Braddon        7-Eleven Braddon, 20 Mort Street                                                                                                         3.45pm        4:00pm        
+                                                                                                                                                                                 Thursday, 12 August 2021                               
+        New                                         Phillip        Elite Supplements, 13 Keltie St, Phillip                                                                                                 11.15am       12.15pm       
+                                                                                                                                                                                 Wednesday, 11 August 2021                              
+        New                                         Phillip        Rebel Sport, SHOP LM2 Keltie St, Phillip                                                                                                 11.15am       12.15pm       
+                                                                                                                                                                                 Wednesday, 11 August 2021                              
+        New                                         Belconnen      Westfield Aldi, Benjamin Way, Belconnen                                                                                                  8.45am        9.20am        
+                                                                                                                                                                                 Friday, 13 August 2021                                 
+        New                                         Belconnen      Westfield Woolworths, Benjamin Way, Belconnen                                                                                            9.05am        9.45am        
+                                                                                                                                                                                 Friday, 13 August 2021                                 
+        New                                         Belconnen      Westfield Coles, Benjamin Way, Belconnen                                                                                                 9.35am        10:00am       
+                                                                                                                                                                                 Friday, 13 August 2021                                 
+        New                                         Belconnen      Westfield Post Office, Benjamin Way, Belconnen                                                                                           9.50am        10.15am       
+                                                                                                                                                                                 Friday, 13 August 2021                                 
+        New                                         Majura Park    Costco, 39-41 Mustang Ave, Majura Park                                                                                                   12:00pm       1:00pm        
+                                                                                                                                                                                 Friday, 13 August 2021                                 
+        New                                         Belconnen      Coles at Belconnen Westfield, Benjamin Way, Belconnen                                                                                    9.20am        10:00am       
+                                                                                                                                                                                 Saturday, 14 August 2021                               
+        New                                         Belconnen      Westfield Woolworths, Benjamin Way, Belconnen                                                                                            1.45pm        2.10pm        
+                                                                                                                                                                                 Friday, 13 August 2021                                 
+        New                                         Belconnen      Westfield Aldi, Benjamin Way, Belconnen                                                                                                  2:00pm        2.25pm        
+                                                                                                                                                                                 Friday, 13 August 2021                                 
+        New                                         Belconnen      Westfield Coles, Benjamin Way, Belconnen                                                                                                 2.15pm        2.45pm        
+                                                                                                                                                                                 Friday, 13 August 2021                                 
+        New                                         Belconnen      Westfield Elite Supplements, Benjamin Way, Belconnen                                                                                     2.30pm        2.45pm        
+                                                                                                                                                                                 Friday, 13 August 2021                                 
+        Change to existing site: extension of time  Tuggeranong    Southern Cross basketball stadium, 7 Pitman Street, Greenway                                                                             8.30pm        10:00pm       
+                                                                                                                                                                                 Wednesday, 11 August 2021                              
+        New                                         City             Canberra Centre Subway & Food Court                                                                         Monday, 9 August 2021      10:30am       12:00pm       
+                                                                     Canberra Centre, 148 Bunda Street                                                                                                                                  
+        New                                         Weston         Woolworths Weston Creek, Cooleman Court Shopping Centre, Brierly St, Weston                                   Friday, 13 August 2021     6.20pm        7:00pm        
+                                                                                                                                                                                                                                        
         
 
       Monitor for symptoms
 
       If you have been to any of the following locations at the dates and times specified, you should monitor for symptoms.
 
-        Status  Suburb       Place                                                                                        Date            Arrival time  Departure time
-                                                                                                                                                                      
-                Fyshwick     Canberra Outlet Centre                                                                       8 August 2021   2:00pm        3:30pm        
-                                                                                                                                                                      
-                Aranda       Aranda Playing Fields, U14 girls AFL Ainslie Red vs Belconnen Black                          8 August 2021   9:00am        11:30am       
-                                                                                                                                                                      
-                Casey        Casey Marketplace, 15 Kingsland Parade                                                       10 August 2021  3:50pm        4:20pm        
-                                                                                                                                                                      
-                Phillip      Woolworths Phillip, Westfield Woden, Hindmarsh Dr & Melrose Drives                           10 August 2021  5:30pm        6:30pm        
-                Kingston     Ground Floor only, Abode Hotel. 14 Kennedy St.                                               11 August 2021  7:50am        7:00pm        
-                                                                                                                                                                      
-                Kingston     Ochre Medical Centre, Level 1, Green Square Centre 62 Jardine Street                         11 August 2021  4:30pm        4:40pm        
-                                                                                                                                                                      
-                Kingston     Ground Floor only, Abode Hotel. 14 Kennedy St.                                               12 August 2021  7:50am        7:00pm        
-                                                                                                                                                                      
-        New     Tuggeranong  Bunnings Tuggeranong, Anketell St, Greenway                                                  11/08/2021      10.15am       10.50am       
-                                                                                                                                                                      
-        New     Holder       Weston Creek Food Works, FoodWorks, 3, 40 Holder Pl, Holder                                  13/08/2021      5:00pm        5.10pm        
-                                                                                                                                                                      
-        New     Holt         Woolworths Kippax, 48 Hardwick Cres, Holt                                                    10/08/2021      11:00am       11.15am       
-                                                                                                                                                                      
-        New     Holt         ALDI Kippax, 50-60 Hardwick Crescent, Kippax Pl, Holt                                        12/8/2021       1.20pm        2:00pm        
-                                                                                                                                                                      
-        New     Hawker       Hawker Drive In Bottle Shop, Belconnen Way &, Springvale Dr, Hawker                          13/08/2021      4.45pm        5:00pm        
-                                                                                                                                                                      
-        New                  CIT Bruce Campus:                                                                                            8.45am        4.30pm        
-                Bruce        Entire Campus (refer to Close Contacts above if attended Building H), 35 Vowels Cres, Bruce  10/8/2021                                   
-                                                                                                                                                                      
-        New                  CIT Bruce Campus:                                                                                            12.30pm       10.30pm       
-                Bruce        Entire Campus (refer to Close Contacts above if attended Building H), 35 Vowels Cres, Bruce  11/8/2021                                   
-                                                                                                                                                                      
-        New     Weston       Woolworths Weston Creek, Cooleman Court Shopping Centre, Brierly St, Weston                  13/08/2021      6.20pm        7:00pm        
-                                                                                                                                                                      
-        New     Braddon      7-Eleven Braddon, 20 Mort Street                                                             11/08/2021      5:00pm        5.15pm        
-                                                                                                                                                                      
-        New     Belconnen    Westfield Belconnen, Benjamin Way, Belconnen                                                 13/08/2021      8.45am        10.15am       
-                                                                                                                                                                      
-        New     Belconnen    Westfield Belconnen, Benjamin Way, Belconnen                                                 13/08/2021      1.30pm        2.50pm        
-                                                                                                                                                                      
-        New     City           Canberra Centre, 148 Bunda Street                                                          09/08/2021      10:30am       12:00pm       
+        Status  Suburb       Place                                                                                        Date                       Arrival time  Departure time
+                                                                                                                                                                                 
+                Fyshwick     Canberra Outlet Centre                                                                       Sunday, 8 August 2021      2:00pm        3:30pm        
+                                                                                                                                                                                 
+                Aranda       Aranda Playing Fields, U14 girls AFL Ainslie Red vs Belconnen Black                          Sunday, 8 August 2021      9:00am        11:30am       
+                                                                                                                                                                                 
+                Casey        Casey Marketplace, 15 Kingsland Parade                                                       Tuesday, 10 August 2021    3:50pm        4:20pm        
+                                                                                                                                                                                 
+                Phillip      Woolworths Phillip, Westfield Woden, Hindmarsh Dr & Melrose Drives                           Tuesday, 10 August 2021    5:30pm        6:30pm        
+                Kingston     Ground Floor only, Abode Hotel. 14 Kennedy St.                                               Wednesday, 11 August 2021  7:50am        7:00pm        
+                                                                                                                                                                                 
+                Kingston     Ochre Medical Centre, Level 1, Green Square Centre 62 Jardine Street                         Wednesday, 11 August 2021  4:30pm        4:40pm        
+                                                                                                                                                                                 
+                Kingston     Ground Floor only, Abode Hotel. 14 Kennedy St.                                               Thursday, 12 August 2021   7:50am        7:00pm        
+                                                                                                                                                                                 
+        New     Tuggeranong  Bunnings Tuggeranong, Anketell St, Greenway                                                                             10.15am       10.50am       
+                                                                                                                          Wednesday, 11 August 2021                              
+        New     Holder       Weston Creek Food Works, FoodWorks, 3, 40 Holder Pl, Holder                                                             5:00pm        5.10pm        
+                                                                                                                          Friday, 13 August 2021                                 
+        New     Holt         Woolworths Kippax, 48 Hardwick Cres, Holt                                                                               11:00am       11.15am       
+                                                                                                                          Tuesday, 10 August 2021                                
+        New     Holt         ALDI Kippax, 50-60 Hardwick Crescent, Kippax Pl, Holt                                                                   1.20pm        2:00pm        
+                                                                                                                          Thursday, 12 August 2021                               
+        New     Hawker       Hawker Drive In Bottle Shop, Belconnen Way &, Springvale Dr, Hawker                                                     4.45pm        5:00pm        
+                                                                                                                          Friday, 13 August 2021                                 
+        New                  CIT Bruce Campus:                                                                                                       8.45am        4.30pm        
+                Bruce        Entire Campus (refer to Close Contacts above if attended Building H), 35 Vowels Cres, Bruce                                                         
+                                                                                                                          Tuesday, 10 August 2021                                
+        New                  CIT Bruce Campus:                                                                                                       12.30pm       10.30pm       
+                Bruce        Entire Campus (refer to Close Contacts above if attended Building H), 35 Vowels Cres, Bruce                                                         
+                                                                                                                          Wednesday, 11 August 2021                              
+        New     Braddon      7-Eleven Braddon, 20 Mort Street                                                                                        5:00pm        5.15pm        
+                                                                                                                          Wednesday, 11 August 2021                              
+        New     Belconnen    Westfield Belconnen, Benjamin Way, Belconnen                                                                            8.45am        10.15am       
+                                                                                                                          Friday, 13 August 2021                                 
+        New     Belconnen    Westfield Belconnen, Benjamin Way, Belconnen                                                                            1.30pm        2.50pm        
+                                                                                                                          Friday, 13 August 2021                                 
+        New     City           Canberra Centre, 148 Bunda Street                                                          Monday, 9 August 2021      10:30am       12:00pm       
         
 
         Exposure locations outside the ACT
