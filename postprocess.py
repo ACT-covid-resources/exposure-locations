@@ -7,6 +7,9 @@ import datetime
 from bs4 import BeautifulSoup
 from inscriptis import get_text
 from texttable import Texttable
+from openpyxl import Workbook
+from openpyxl.worksheet.dimensions import ColumnDimension, DimensionHolder
+from openpyxl.utils import get_column_letter
 # Given a CSS Rule, and a blob of HTML, return the blob of HTML that matches
 
 
@@ -114,3 +117,27 @@ if __name__ == "__main__":
         text_table.add_rows(table)
         with open(f"{tablenames[i]}.txt", 'w') as tablefile:
             tablefile.write(text_table.draw())
+
+    # excel
+    wb = Workbook()
+
+    for i, table in enumerate(data):
+        if i == 0:
+            worksheet = wb.active
+            worksheet.title = tablenames[i]
+        else:
+            worksheet = wb.create_sheet(title=tablenames[i])
+        for row in table:
+            worksheet.append(row)
+
+        def as_text(value):
+            if value is None:
+                return ""
+            return str(value)
+
+        for column_cells in worksheet.columns:
+            length = max(len(as_text(cell.value)) for cell in column_cells)
+            column_letter = get_column_letter(column_cells[0].column)
+            worksheet.column_dimensions[column_letter].width = length + 3
+
+    wb.save('locations.xlsx')

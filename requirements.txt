@@ -2,3 +2,4 @@ bs4
 inscriptis
 dateutil
 texttable
+openpyxl
